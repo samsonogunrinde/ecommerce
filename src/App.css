@@ -1,38 +1,105 @@
-.App {
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+a {
+  color: darkslategray;
+  text-decoration: none;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* style the header */
+header{
+  background-color: #666;
+  padding: 30px;
+  font-size: 35px;
+  color: white;
   text-align: center;
+  display: grid;
+  grid-template-columns: 0.1fr 0.1fr 1fr 0.1fr;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+header a {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#headerHomeIcon {
+  justify-self: start;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+#headerTitle {
+  justify-self: center;
+}
+
+#headerCartIcon {
+  justify-self: end;
+}
+
+#search {
+  display:flex;
+}
+
+#search input {
+  margin-left: 10px;
+  height: 30px;
+  margin-top: 5px;
+}
+
+/* container for flexboxes */
+section{
+  display: -webkit-flex;
+  display: flex;
+}
+
+/* style the navigation menu */
+nav{
+  -webkit-flex: 0.5;
+  -ms-flex: 0.5;
+  flex: 0.5;
+  padding: 20px;
+  background-color: #ccc;
+}
+
+/* style the list inside the menu */
+nav ul{
+  padding: 0;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+nav ul li{
+  padding-bottom: 5px;
+}
+
+nav ul li:hover{
+  color: blue;
+}
+
+main{
+  padding-top: 20px;
+}
+
+/* style the footer */
+footer {
+  padding: 10px;
+  background-color: #777;
+  color: white;
+  text-align: center;
+}
+
+footer a {
+  color: white;
+}
+
+/* responsive layout -makes the menu and content (inside the section) sit on top of each other */
+@media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
   }
 }
