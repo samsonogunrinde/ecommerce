@@ -75,6 +75,71 @@
     },
 
     {"id": 6, 
+    "catId": 2, 
+    "title": "Binatone 2 Litres (CEJ-2005) Electric Jug - Black",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k1.jpg",
+    "price": 39,
+    "sku": "BI681HL1ISXYSNAFAMZ",
+    "description": "The Binatone High-Speed Electric Kettle CEJ-2005 offers a range of features designed to make boiling water quick, convenient, and safe." ,
+    "specs": {"dimensions": "Product Line: Binatone, Model: CEJ-2005,Weight (kg): 2, Color: BLACK, Area of Use: Dining Room|Kitchen|Home Office"},
+    "features": ["High Speed ​​Electric Kettle CEJ-2005", "Colour: Black", "Capacity: 2 liters", "Auto switch off", "Dry boil safety protection", "Removable fine mesh filter", "On/Off switch with a light indication", "Power: 1850-2200W"],
+    "stock": 5
+},
+    
+{"id": 7, 
+    "catId": 2, 
+    "title": "Maimeite 1.8L Simple And Stylish Electric Kettle - Black",
+    "productCode": "32LM6370PLA",
+    "image": "k2.jpg",
+    "price": 50,
+    "sku": "MA566HA34CLOKNAFAMZ",
+    "description": "Maimeite Electric Kettle is stylish, easy to use and durable.Made of stainless steel, the Maimeite Electric Kettle is sturdy and features a flat heating element that boils water quickly and is easy to clean.This electric kettle with 1.8L capacity is stylish yet simple. perfect for every kitchen with its stainless steel body, you can be sure to have access to boiled water every time Grab this deal and more at unbeatable price.  Highlight element water level indicator and filter Automatic switch off Boil dry protection Overheating protection Body.Two metal controllers, double safety protection for dry burning.A steam switch that automatically shuts off after the water is boiled.",
+    "specs": {"dimensions": "Product Line: Maimeite Official Store, Model: DRSH-black, Weight (kg): 0.7, Color: Black, Main Material: PVC, Shop Type: Our Store"},
+    "features": ["Cordless Auto Shutof ", "Fast Boil", "Advantage: Over heat Protection", "Under pan Heating", "Material: Stainless Steel"],
+    "stock": 15
+},
+
+{"id": 8, 
+    "catId": 2, 
+    "title": "3L Whistle Stainless Steel Kettle",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k3.jpg",
+    "price": 89,
+    "sku": "GE779HL4P20I6NAFAMZ",
+    "description": "Whistling Kettle is very efficient and easy to use. It suitable for for boiling water and making tea for which it is also know as a Tea Kettle. ",
+    "specs": {"dimensions": "Product Line: kitchenwares, Model: N/A, Weight (kg): 0.9, Color: NA, Main Material: Stainless Steel, Shop Type: Our Store"},
+    "features": ["Whistling Kettle is very efficient and easy to use. It suitable for for boiling water and making tea for which it is also know as a Tea Kettle.", "The sprout will whistle once boiled.", "Rust proof.", "Light weight and easy to use." , "Non corrosive stainless steel quality."],
+    "stock": 10
+},
+
+{"id": 9, 
+    "catId": 2, 
+    "title": "Binatone 1.7 Litres (CEJ-1799DW) Deluxe Thermo Kettle",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k4.jpg",
+    "price": 189,
+    "sku": "BI681HL0LQANWNAFAMZ",
+    "description": "Binatone kettles are stylish, easy-to-use and durable. This premium range of appliances are available in different sizes and are all pocket-friendly.",
+    "specs": {"dimensions": "Product Line: Global Appliances NIG Limited, Model: CEJ-1799, Weight (kg): 2, Color: Gold, Area of Use: Dining Room|Kitchen|Home Office, Shop Type: Our Store"},
+    "features": ["1.7 litres High-Speed Kettle", "Double Wall - Cool Touch body", "Seamless interior safety and for ease of cleaning ", "Food grade 304 Stainless Steel interior", "Concealed heating element", "Auto shut off & Boil dry protection", "Stainless Steel Filter", "On/Off switch with indicator light", "Voltage: 220-240 50/60Hz", "Power: 1800-2000W"],
+    "stock": 5
+},
+
+{"id": 10, 
+    "catId": 2, 
+    "title": "iYOWEI 1.8 Liters 1500W Glass Electric Kettle",
+    "productCode": "UE50TU7020KXXU",
+    "image": "k5.jpg",
+    "price": 215,
+    "sku": " BR768HA495XV2NAFAMZ",
+    "description": "Fast Boil with 1500 Watts. This electric kettle boils up to 1 liter of water faster than a microwave and safer than a stovetop kettle. Make a quick, hot cup of tea or French press coffee anytime without the long wait — perfect for hectic mornings",
+    "specs": {"dimensions": "Product Line: iYOWEI, Model: IYW-RSH-B1, Production Country: China, Size (L x W x H cm): 26*16*12(cm), Weight (kg): 300, Color: beige, Main Material: plastic, Shop Type: Our Store"},
+    "features": ["Fast Boil with 1500 Watts", "Durable Glass Carafe with BPA-free Interior", "Convenient Cord-Free Serving", "Space-Saving Design", "Easy to Use"],
+    "stock": 5
+},
+
+    {"id": 11, 
     "catId": 3, 
     "title": "SAMSUNG UE50TU7020KXXU 50\" Smart 4k Ultra HD LED TV delivers pure colors, sharp contrast, and brilliant brightness. HDR displays",
     "productCode": "UE50TU7020KXXU",
@@ -87,7 +152,7 @@
     "stock": 5
 },
     
-{"id": 7, 
+{"id": 12, 
     "catId": 3, 
     "title": "SONY 32LM6370PLA 32\" Smart Full HD HDR LED TV",
     "productCode": "32LM6370PLA",
@@ -100,7 +165,7 @@
     "stock": 15
 },
 
-{"id": 8, 
+{"id": 13, 
     "catId": 3, 
     "title": "LG UE50TU7020KXXU 55\" Smart 4k Ultra HD LED TV",
     "productCode": "UE50TU7020KXXU",
@@ -113,7 +178,7 @@
     "stock": 10
 },
 
-{"id": 9, 
+{"id": 14, 
     "catId": 3, 
     "title": "SAMSUNG UE50TU7020KXXU 55\" Smart 4k Ultra HD LED TV",
     "productCode": "UE50TU7020KXXU",
@@ -126,7 +191,7 @@
     "stock": 5
 },
 
-{"id": 10, 
+{"id": 15, 
     "catId": 3, 
     "title": "SAMSUNG UE50TU7020KXXU 50\" Smart 4k Ultra HD LED TV",
     "productCode": "UE50TU7020KXXU",

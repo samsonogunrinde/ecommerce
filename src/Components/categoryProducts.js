@@ -127,10 +127,10 @@ color: darkslategray;
 const ProductInfoStock = styled.div`
 padding-left: 10px;
   margin-top: 20px;
-  padding-top: 20px;
+  padding-top: 15px;
   background-color: lightgrey;
-  height: 20%;
-  width: 30%;
+  height: 30%;
+  width: 40%;
   border-radius: 5px;
   font-weight: bold;
   display: flex;
